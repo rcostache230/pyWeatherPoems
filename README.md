@@ -1,2 +1,2 @@
 # pyWeatherPoems
-Simple python script for displaying the curerrent weather with a poem
+Simple python script for displaying the current weather with a poem
